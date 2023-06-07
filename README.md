@@ -6,3 +6,8 @@ You can find the other app (Home) here:
 https://github.com/vl4d1m1r/multi-zones-home
 
 Just clone both apps, and run them with `npm run dev` (both apps at the same time), then go to `https://localhost:3000`.
+
+# .env.local
+
+DEV_BASE_URL = "/"
+PROD_BASE_URL = "/blog/"
